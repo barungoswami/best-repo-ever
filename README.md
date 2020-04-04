@@ -3,4 +3,6 @@ Trailhead learning first repository
 
 First Change test in repository file
 
-Second Change to the file..2
+Second Change to the file
+
+Third Change to the repository file
